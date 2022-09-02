@@ -1,11 +1,14 @@
 # Hi there 👋 I'm Parham
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khoramparham&theme=vue)
 
 ## About me
 
 I am a Backend-end Developer
 
 ### My Skills and Experience 
-  💻  JavaScript, Nodejs, Nestjs, Mongodb
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 
 
 ##  find me here
