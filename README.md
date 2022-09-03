@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Parham
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khoramparham&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api?username={khoramparham}&theme=red-yellow)
 
 ## About me
 
